@@ -31,13 +31,12 @@ I enjoy solving problems and facing challenges always trying to find valuable so
 
 ### 📬 Contacts ⤵️
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YuriFarnesio)
-[![linktree](https://img.shields.io/badge/linktree-333333?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/YuriFarnesio)
-
+[![linktree](https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/YuriFarnesio)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yuri.farnesio@gmail.com)](mailto:yuri.farnesio@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/yurifarnesio)](https://www.instagram.com/yurifarnesio/)
-
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/yurifarnesio)](https://www.linkedin.com/in/yurifarnesio/)
+
+[![github](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YuriFarnesio)
+[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/yurifarnesio)](https://www.instagram.com/yurifarnesio/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/YFarnesio)](https://twitter.com/YFarnesio)
 
 <br />

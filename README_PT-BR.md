@@ -7,7 +7,7 @@
 ## Olá, eu sou Yuri <img alt="Hi" src="https://user-images.githubusercontent.com/45167583/139305531-7ed490be-3a5a-4379-aae6-408484d795cd.gif" width="30px" /> Seja bem-vindo ao meu perfil!
 
 ```
-Olá, meu nome é Yuri Farnesio e sou desenvolvedor full-stack jr, apaixonado por programação e sistemas.
+Olá, meu nome é Yuri Farnesio e sou desenvolvedor full-stack, apaixonado por programação e sistemas.
 Técnico em Informática pelo CEFET - Centro Federal de Educação Tecnológica de Minas Gerais.
 Grande amante da área de T.I e tudo que a envolve.
 Curto resolver problemas e enfrentar desafios tentando sempre encontrar soluções valiosas.
