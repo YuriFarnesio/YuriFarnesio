@@ -4,13 +4,13 @@
 
 ---
 
-## Hi there, I'm Yuri <img alt="Hi" src="https://user-images.githubusercontent.com/45167583/139305531-7ed490be-3a5a-4379-aae6-408484d795cd.gif" width="30px" /> Welcome to my profile!
+## Olá, eu sou Yuri <img alt="Hi" src="https://user-images.githubusercontent.com/45167583/139305531-7ed490be-3a5a-4379-aae6-408484d795cd.gif" width="30px" /> Seja bem-vindo ao meu perfil!
 
 ```
-Hi, my name is Yuri Farnesio, a full-stack developer, passionate about programming and systems.
-Computer Technician by CEFET - Centro Federal de Educação Tecnológica de Minas Gerais.
-Great lover of the IT area and everything that surrounds it.
-I enjoy solving problems and facing challenges always trying to find valuable solutions.
+Olá, meu nome é Yuri Farnesio e sou desenvolvedor full-stack jr, apaixonado por programação e sistemas.
+Técnico em Informática pelo CEFET - Centro Federal de Educação Tecnológica de Minas Gerais.
+Grande amante da área de T.I e tudo que a envolve.
+Curto resolver problemas e enfrentar desafios tentando sempre encontrar soluções valiosas.
 ```
 
 ---
@@ -29,7 +29,7 @@ I enjoy solving problems and facing challenges always trying to find valuable so
 <br />
 <br />
 
-### 📬 Contacts ⤵️
+### 📬 Contatos ⤵️
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YuriFarnesio)
 [![linktree](https://img.shields.io/badge/linktree-333333?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/YuriFarnesio)
@@ -40,24 +40,18 @@ I enjoy solving problems and facing challenges always trying to find valuable so
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/yurifarnesio)](https://www.linkedin.com/in/yurifarnesio/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/YFarnesio)](https://twitter.com/YFarnesio)
 
-<br />
-<br />
-<br />
-<br />
+### 🚀 Sobre mim ⤵️
 
-### 🚀 About Me ⤵️
+- 💻 Desenvolvedor Full-stack;
+- 📌 Moro em Minas Gerais - BR;
+- 🎓 Técnico em Informática;
+- 👨‍🎓 Estudante no Bootcamp Ignite nas trilhas sobre React.js, React Native and Node.js;
+- 🔭 Atualmente estou estudando e melhorando em Node.js, Typescript, React.js, Styled-Components, React Native...;
+- 💬 Estou disponível para trabalhar em home office;
+- 💡 Qualquer ajuda ou dica é sempre bem-vinda!
+  <br />
 
-- 💻 Full-stack developer
-- 📌 I Live in Minas Gerais - BR
-- 🎓 Computer Technician
-- 👨‍🎓 Student at Bootcamp Ignite on the trail of React.js, React Native and Node.js
-- 🔭 I am currently learning and improving Node.js, Typescript, React.js, Styled-Components, React Native...
-- 💬 I am available for work in the home office mode;
-- 💡 Any help or tips is always welcome!
-
-<br />
-
-### 💼 Languages and Tools:
+### 💼 Linguagens e Ferramentas:
 
 <div style="display: inline_block">
   <code><img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
