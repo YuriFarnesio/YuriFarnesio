@@ -1,9 +1,3 @@
-<div align="center">
-  <img alt="Programming Gif" src="https://user-images.githubusercontent.com/45167583/139304967-553867b7-ad14-4520-8d2e-391b8bd4e2a1.gif" />
-</div>
-
----
-
 ## Olá, eu sou Yuri <img alt="Hi" src="https://user-images.githubusercontent.com/45167583/139305531-7ed490be-3a5a-4379-aae6-408484d795cd.gif" width="30px" /> Seja bem-vindo ao meu perfil!
 
 ```
